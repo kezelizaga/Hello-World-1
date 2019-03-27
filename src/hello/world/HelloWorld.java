@@ -16,8 +16,11 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
         System.out.println("Hello World");
-        System.out.println("Ive been here :)");
-        System.out.println("KZEHEA ELIZAGA");
+        
+        System.out.println("I've been here!");
+        System.out.println("Carms");
+        System.out.println("Yow");
+
     }
     
 }
