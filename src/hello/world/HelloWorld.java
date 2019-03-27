@@ -20,6 +20,9 @@ public class HelloWorld {
         System.out.println("I've been here!");
         System.out.println("Carms");
         System.out.println("Yow");
+        
+        System.out.println("I am Kez");
+        System.out.println("Yihaaa");
 
     }
     
